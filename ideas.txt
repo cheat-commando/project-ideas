@@ -1,9 +1,49 @@
-1. TruAlgebra - (Register, Login, Create Equations, Share/Challenge other users to solve equations)
+1. TruAlgebra - (Register, Login, Create Equations, Share/Challenge other users to solve equations, rate difficulty of equations)
 2. MAG Character Creator - (Register, Login, Create Characters, Make and Join Groups)
-3. 
+3. Side-scroller platformer - (Register, Login, Create Character, Friends List, Share High Scores/Times)
+4. Beast Maker .... :/
+5. 
 
 
 
 Brainstorming
 
 Goodreads clone
+Kindle clone
+Personal hygiene reminder/calendar (shaving, fingernails, toenails)
+17th Shard clone
+
+
+
+
+Daily activities
+-read scriptures
+-write on blog/book
+-get boys set up for the morning
+-shower
+-go to school
+-watch lectures and take notes
+-listen to Pandora
+-eat lunch
+-write code
+-travel home
+-make/get dinner
+-go grocery shopping
+-read books from phone
+-check Facebook
+-play MTG Arena
+-play with kiddos
+-watch Marco Polos from Aubrey
+
+
+Hobbies/Interests
+
+-Reading fiction
+-Writing my blog
+-Writing book
+-Playing board games
+-making board games
+-playing with kiddos
+-reading to my honey
+-Keeping up with friends on Facebook
+-
